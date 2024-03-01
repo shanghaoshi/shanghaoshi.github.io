@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Shanghao Shi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
