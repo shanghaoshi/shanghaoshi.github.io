@@ -1,8 +1,10 @@
 ---
-layout: archive
+permalink: /
 title: "Publications"
-permalink: /publications/
-author_profile: true
+excerpt: "Publications"
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
 ## 2024
 - **Shanghao Shi**, MD Shahedul Haque, Abhijeet Parida, Marius Linguraru, Y. Thomas Hou, Syed Anwar, and Wenjing Lou. "Harvesting Private Medical Images in Federated Learning Systems with Crafted Models". Submitted to the IEEE Conference on Communications and Network Security 2024 (CNS'24).
